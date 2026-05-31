@@ -123,7 +123,7 @@ Public datasets (ISIC and HAM10000) are used under a **CC BY-NC-SA 4.0 license**
 </p>
 
 <p align="center">
-  <img src="./screenshots/upload.png" width="850"/>
+  <img src="screenshots/Screenshot 2026-05-31 124856.png" width="850"/>
 </p>
 
 <p align="center">
