@@ -115,16 +115,20 @@ Public datasets (ISIC and HAM10000) are used under a **CC BY-NC-SA 4.0 license**
 
 ---
 
-## Screenshots
+## Project Screenshots
 
-### Home Page
-![Home Page](screenshots/home.png)
+<p align="center">
+  <img src="screenshots/Screenshot 2026-05-31 124802.png
+" width="850"/>
+</p>
 
-### Benign Results
-![Benign Results](screenshots/test1.jpeg)
+<p align="center">
+  <img src="./screenshots/upload.png" width="850"/>
+</p>
 
-### Malignant Results
-![Malignant Results](screenshots/test2.jpeg)
+<p align="center">
+  <img src="./screenshots/result.png" width="850"/>
+</p>
 
 ---
 
