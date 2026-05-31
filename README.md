@@ -118,8 +118,7 @@ Public datasets (ISIC and HAM10000) are used under a **CC BY-NC-SA 4.0 license**
 ## Project Screenshots
 
 <p align="center">
-  <img src="screenshots/Screenshot 2026-05-31 124802.png
-" width="850"/>
+  <img src="screenshots/Screenshot 2026-05-31 124802.png" width="850"/>
 </p>
 
 <p align="center">
@@ -127,7 +126,7 @@ Public datasets (ISIC and HAM10000) are used under a **CC BY-NC-SA 4.0 license**
 </p>
 
 <p align="center">
-  <img src="./screenshots/result.png" width="850"/>
+  <img src="screenshots/Screenshot 2026-05-31 124909.png" width="850"/>
 </p>
 
 ---
