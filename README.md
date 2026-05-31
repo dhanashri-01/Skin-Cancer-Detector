@@ -128,21 +128,4 @@ Public datasets (ISIC and HAM10000) are used under a **CC BY-NC-SA 4.0 license**
 
 ---
 
-## Contributing
 
-Contributions are welcome! Submit pull requests to propose changes or address issues.
-
----
-
-## Acknowledgments
-
-- 💡 Special thanks to the TensorFlow.js team.
-- 🏗️ Acknowledgment to MobileNet developers.
-- 📊 Recognition of ISIC and HAM10000 dataset contributors.
-
----
-
-## Contact
-
-**Arian Rezazadeh**  
-Email: [arian.rmn5281@gmail.com](mailto:arian.rmn5281@gmail.com)
